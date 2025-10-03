@@ -1,13 +1,12 @@
-<h1 align="center">👋 Hi, I'm Tushar Tanahi Gunware</h1>
+<h1 align="center">👋 Hi, I'm Tushar Tanaji Gunware</h1>
 <p align="center">
-  <b>Associate Software Engineer @ USEReady | Java | Spring Boot | Microservices | M.Tech (IIIT Bangalore)</b>
+  <b>Associate Software Engineer @ USEReady | M.Tech (IIIT Bangalore) | Java | Spring Boot | Microservices </b>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 💻 Backend Developer working with **Java, Spring Boot, Microservices, PostgreSQL**
-- 🎯 Interested in **System Design, Scalability, and Open Source**
 - 🧩 Problem Solver – regularly practicing on **LeetCode** and **GFG**
 - 🌱 Currently exploring **System Design** and contributing to open source
 
@@ -28,6 +27,15 @@
 <p align="center">
   <a href="https://leetcode.com/u/Tushar26G/">
     <img src="https://leetcard.jacoblin.cool/Tushar26G?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+   <a href="https://leetcode.com/u/Tushar26G/">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="120" width="120" />
+  </a>
+  <a href="https://leetcode.com/u/Tushar26G/">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="120" width="120" />
+  </a>
+  <a href="https://leetcode.com/u/Tushar26G/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" width="120" />
   </a>
 </p>
 
