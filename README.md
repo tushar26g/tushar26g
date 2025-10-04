@@ -1,22 +1,24 @@
 <h1 align="center">👋 Hi, I'm Tushar Tanaji Gunware</h1>
 <p align="center">
-  <b>Associate Software Engineer @ USEReady | M.Tech (IIIT Bangalore) | Java | Spring Boot | Microservices </b>
+  <b>Associate Software Engineer @ USEReady | M.Tech (IIIT Bangalore) | Java | Spring Boot | Microservices</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 💻 Backend Developer working with **Java, Spring Boot, Microservices, PostgreSQL**
-- 🧩 Problem Solver – regularly practicing on **LeetCode** and **GFG**
-- 🌱 Currently exploring **System Design** and contributing to open source
+- 🧩 Passionate Problem Solver – regularly practicing on **LeetCode** and **GeeksforGeeks**
+- ⚙️ Enthusiastic about **System Design**, **Scalability**, and **Open Source Contributions**
+- 🌱 Continuously learning and building scalable backend systems
 
 ---
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=tushar26g&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tushar26g&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats"/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar26g&layout=compact&theme=react&border_radius=10&hide=HTML" alt="top langs"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=tushar26g&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tushar26g&show_icons=true&theme=react&include_all_commits=true&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar26g&layout=compact&theme=react&border_radius=10&hide=HTML" alt="Top Languages"/>
 </div>
 
 ---
@@ -28,22 +30,37 @@
   <a href="https://leetcode.com/u/Tushar26G/">
     <img src="https://leetcard.jacoblin.cool/Tushar26G?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
   </a>
-   <a href="https://leetcode.com/u/Tushar26G/">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="120" width="120" />
-  </a>
+</p>
+
+<p align="center">
+  <!-- Display all 12 badges neatly -->
   <a href="https://leetcode.com/u/Tushar26G/">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="120" width="120" />
-  </a>
-  <a href="https://leetcode.com/u/Tushar26G/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" width="120" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="100" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="100" />
   </a>
 </p>
+
+---
 
 ### 📗 GeeksforGeeks
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/tushar26g/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://gfgstatscard.vercel.app/api?userName=tushar26g&theme=dark" alt="GFG Stats" />
 </p>
 
 ---
@@ -54,6 +71,9 @@
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-%2300ADD8.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2300BFFF.svg?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
