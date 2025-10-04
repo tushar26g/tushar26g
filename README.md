@@ -32,21 +32,23 @@
   </a>
 </p>
 
+<h3>🏅 LeetCode Achievements</h3>
+
 <p align="center">
-  <!-- Display all 12 badges neatly -->
   <a href="https://leetcode.com/u/Tushar26G/">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" height="100" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="100" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-500.gif" height="120" width="120" title="500 Days Badge" />
+  </a>
+  <a href="https://leetcode.com/u/Tushar26G/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2025-365.gif" height="120" width="120" title="365 Days Badge" />
+  </a>
+  <a href="https://assets.leetcode.com/static_assets/marketing/2024-100.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" width="120" title="100 Days Badge 2024" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="120" width="120" title="March 2024 Badge" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="120" width="120" title="February 2024 Badge" />
   </a>
 </p>
 
