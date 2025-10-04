@@ -36,19 +36,25 @@
 
 <p align="center">
   <a href="https://assets.leetcode.com/static_assets/marketing/2024-100.gif">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" width="120" title="500 Days Badge" />
-  </a>
-  <a href="https://assets.leetcode.com/static_assets/marketing/2023-50.gif">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="120" width="120" title="365 Days Badge" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" width="120" title="100 Days Badge" />
   </a>
   <a href="https://assets.leetcode.com/static_assets/marketing/2023-100.gif">
     <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" height="120" width="120" title="100 Days Badge 2024" />
   </a>
-  <a href="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="120" width="120" title="March 2024 Badge" />
+  <a href="https://assets.leetcode.com/static_assets/marketing/2023-50.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" height="120" width="120" title="50 Days Badge" />
   </a>
-  <a href="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="120" width="120" title="February 2024 Badge" />
+  <a href="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" height="120" width="120" title="June 2023 Badge" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" height="120" width="120" title="April 2023 Badge" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif">
+    <img src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" height="120" width="120" title="March 2023 Badge" />
+  </a>
+  <a href="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" height="120" width="120" title="August 2022 Badge" />
   </a>
 </p>
 
