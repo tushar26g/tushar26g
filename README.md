@@ -41,8 +41,8 @@
   <a href="https://leetcode.com/u/Tushar26G/">
     <img src="https://assets.leetcode.com/static_assets/marketing/2025-365.gif" height="120" width="120" title="365 Days Badge" />
   </a>
-  <a href="https://assets.leetcode.com/static_assets/marketing/2024-100.gif">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="120" width="120" title="100 Days Badge 2024" />
+  <a href="https://assets.leetcode.com/static_assets/marketing/2023-100.gif">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" height="120" width="120" title="100 Days Badge 2024" />
   </a>
   <a href="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="120" width="120" title="March 2024 Badge" />
