@@ -35,10 +35,10 @@
 <h3>🏅 LeetCode Achievements</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/Tushar26G/">
+  <a href="https://assets.leetcode.com/static_assets/marketing/2025-500.gif">
     <img src="https://assets.leetcode.com/static_assets/marketing/2025-500.gif" height="120" width="120" title="500 Days Badge" />
   </a>
-  <a href="https://leetcode.com/u/Tushar26G/">
+  <a href="https://assets.leetcode.com/static_assets/marketing/2025-365.gif">
     <img src="https://assets.leetcode.com/static_assets/marketing/2025-365.gif" height="120" width="120" title="365 Days Badge" />
   </a>
   <a href="https://assets.leetcode.com/static_assets/marketing/2023-100.gif">
