@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Tushar Tanaji Gunware</h1>
 <p align="center">
-  <b>Associate Software Engineer @ USEReady | M.Tech (IIIT Bangalore) | Java | Spring Boot | Microservices</b>
+  <b>Associate Software Engineer @ USEReady | M.Tech (IIIT Bangalore) | Building Scalable Microservices with Java & Spring Boot</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 - 💻 Backend Developer working with **Java, Spring Boot, Microservices, PostgreSQL**
-- 🧩 Passionate Problem Solver – regularly practicing on **LeetCode** and **GeeksforGeeks**
+- 🧩 Analytical thinker – enhancing problem-solving skills through regular **DSA** practice.
 - ⚙️ Enthusiastic about **System Design**, **Scalability**, and **Open Source Contributions**
 - 🌱 Continuously learning and building scalable backend systems
 
@@ -63,7 +63,8 @@
 
 ---
 
-### 📗 GeeksforGeeks
+## 💻 GeeksforGeeks Profile
+
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/tushar26g/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile"/>
@@ -71,8 +72,11 @@
 </p>
 
 <p align="center">
-  <img src="https://gfgstatscard.vercel.app/api?userName=tushar26g&theme=dark" alt="GFG Stats" />
+  <a href="https://www.geeksforgeeks.org/user/tushar26g/">
+    <img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=tushar26g" alt="Tushar's GFG Stats" />
+  </a>
 </p>
+
 
 ---
 
@@ -81,6 +85,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-%2300ADD8.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -88,12 +93,10 @@
   <img src="https://img.shields.io/badge/React-%2300BFFF.svg?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
+
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/tushar26g"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tushar26g/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Tushar26G/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/tushar26g/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
+📧 **Email:** [tushar26g@gmail.com](mailto:tushar26g@gmail.com)  
+📱 **Mobile:** [+91 98765 43210](tel:+919370923154)  
+💼 **LinkedIn:** [linkedin.com/in/tushar26g](https://www.linkedin.com/in/tushar26g/)
