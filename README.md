@@ -98,5 +98,5 @@
 
 ## 🌐 Connect With Me
 📧 **Email:** [tushar26g@gmail.com](mailto:tushar26g@gmail.com)  
-📱 **Mobile:** [+91 98765 43210](tel:+919370923154)  
-💼 **LinkedIn:** [linkedin.com/in/tushar26g](https://www.linkedin.com/in/tushar26g/)
+📱 **Mobile:** [+91 9370923154](tel:+919370923154)  
+💼 **LinkedIn:** [tushar26g](https://www.linkedin.com/in/tushar26g/)
