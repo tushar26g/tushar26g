@@ -1,8 +1,12 @@
-<h1 align="center">👋 Hi, I'm Tushar Tanaji Gunware</h1>
 <p align="center">
-  <b>Associate Software Engineer @ USEReady | M.Tech (IIIT Bangalore) | Building Scalable Microservices with Java & Spring Boot</b>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6366f1,100:06b6d4&text=Tushar%20Tanaji%20Gunware&fontSize=42&fontAlignY=40&desc=Associate%20Software%20Engineer%20@%20USEReady%20|%20M.Tech%20(IIIT%20Bangalore)&descAlignY=65&animation=twinkling" />
+
 </p>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Crafting+Scalable+Microservices;Solving+Complex+System+Design+Problems;Building+the+Future+at+USEReady;IIIT+Bangalore+Alumnus" />
+</h2>
 ---
 
 ## 🚀 About Me
@@ -82,15 +86,7 @@
 
 ## 💡 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-%2300ADD8.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2300BFFF.svg?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,docker,jenkins,react,dotnet,git,maven&perline=8" />
 </p>
 
 
